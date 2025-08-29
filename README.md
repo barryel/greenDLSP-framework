@@ -26,11 +26,7 @@ This project extends and builds upon the work in [MariaSL/carbon-tracking](https
 ---
 
 ## 📊 Dataset
-The dataset used for this research is **not included in this repository** (due to size/privacy).  
-
-👉 To reproduce results:  
-- Download the dataset from [insert dataset link/source here].  
-- Place the files in the `/data/` folder before running notebooks.  
+The dataset used for this research is **not included in this repository** (due to size). 
 
 ---
 
